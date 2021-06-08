@@ -1,0 +1,36 @@
+Print Resolution :;
+4800 x 1200dpi;
+1800 x 1200dpi;
+2800 x 1200dpi;
+5800 x 1200dpi;
+4800 x 1200dpi;
+|
+Weight:;
+3.4kg;
+5.4kg;
+6.5kg;
+2.4kg;
+3.4kg;
+|
+Interface:;
+USB 2.0;
+USB 3.0;
+USB 3.1;
+USB 1.0;
+USB 2.0;
+|
+Print Speed PPM (Black):;
+7ppm;
+3ppm;
+4ppm;
+5ppm;
+7ppm;
+|
+Print Speed PPM (Color):;
+7.2ppm;
+3.8ppm;
+4.5ppm;
+4.8ppm;
+4.8ppm;
+|
+
